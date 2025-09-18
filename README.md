@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sentimentaleunjun
+중학교 1학년 / Python & Discord Bot 개발자 / GSEJ Company 🚀  
 
-<!--
-**Sentimentaleunjun/Sentimentaleunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python, Discord.py
+- Git & GitHub
+- 게임 API 연동, 봇 개발
 
-Here are some ideas to get you started:
+## 🌱 Learning
+- 웹 개발 (FastAPI, Flask)
+- 데이터베이스 (SQLite, MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Discord: eunddiseundd#0
+- Email: eunjunjo837@naver.com
+
+## ✨ Projects
+- [따까리봇](https://github.com/Sentimentaleunjun/takkari-bot) – 서버 관리/게임 연동 디스코드 봇
