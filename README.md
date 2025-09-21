@@ -9,6 +9,7 @@
 ## 🌱 Learning
 - 웹 개발 (FastAPI, Flask)
 - 데이터베이스 (SQLite, MongoDB)
+- JS JavaScript , PyThon
 
 ## 📫 Contact
 - Discord: eunddiseundd#0
@@ -16,3 +17,4 @@
 
 ## ✨ Projects
 - [따까리봇](https://github.com/Sentimentaleunjun/takkari-bot) – 서버 관리/게임 연동 디스코드 봇
+- [DiscoDrive)(https://github.com/Sentimentaleunjun/DiscoDrive) - 비공개 프로잭트, 오픈소스 아님.
