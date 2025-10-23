@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Sentimentaleunjun
-중학교 1학년 / Python & Discord Bot 개발자 / GSEJ Company 🚀  
+SiLabs SecurityLabs / GSEJ Company 🚀  
 
 ## 🔧 Skills
 - Python, Discord.py
 - Git & GitHub
 - 게임 API 연동, 봇 개발
+- Html Backend , Frontend
 
 ## 🌱 Learning
 - 웹 개발 (FastAPI, Flask)
