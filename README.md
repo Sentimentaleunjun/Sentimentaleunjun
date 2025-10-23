@@ -17,4 +17,5 @@
 
 ## ✨ Projects
 - [따까리봇](https://github.com/Sentimentaleunjun/takkari-bot) – 서버 관리/게임 연동 디스코드 봇
-- [DiscoDrive)(https://github.com/Sentimentaleunjun/DiscoDrive) - 비공개 프로잭트, 오픈소스 아님.
+- [DiscoDrive](https://github.com/Sentimentaleunjun/DiscoDrive) - 비공개 프로잭트, 오픈소스 아님.
+- SiLabs Sentinels - 서버로그 감시 및 서버 상태 모니터링 에이전트 , 오픈소스 아님.
